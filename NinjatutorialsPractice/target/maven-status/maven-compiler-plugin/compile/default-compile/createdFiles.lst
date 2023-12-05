@@ -1,1 +1,10 @@
+com\tutorialsninja\qa\PageObjects\RegisterSuccessObj.class
+com\tutorialninja\qa\utils\ExtentReporter.class
+com\tutorialsninja\qa\PageObjects\SearchPageObj.class
+com\tutorialsninja\qa\PageObjects\LoginPageObj.class
 com\tutorialninja\qa\utils\Utilities$1.class
+com\tutorialsninja\qa\Listeners\MyListeners.class
+com\tutorialsninja\qa\PageObjects\RegisterPageObj.class
+com\tutorialninja\qa\utils\Utilities.class
+com\tutorialsninja\qa\PageObjects\AccountPageObj.class
+com\tutorialsninja\qa\PageObjects\HomePageObj.class

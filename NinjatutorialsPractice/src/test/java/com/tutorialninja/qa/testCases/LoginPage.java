@@ -23,13 +23,13 @@ import com.tutorialsninja.qa.PageObjects.LoginPageObj;
 /**
  * 
  */
-public class LoginPageTest extends BaseClass{
+public class LoginPage extends BaseClass{
 //	TO GLOBALIZED THE DATA FROM TESTDATA
 	
 	LoginPageObj loginPage;
 	AccountPageObj accountPage;
 	
-	public LoginPageTest() {
+	public LoginPage() {
 		super();
 	}
 	

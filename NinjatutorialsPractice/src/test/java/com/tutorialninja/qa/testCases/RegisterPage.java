@@ -18,12 +18,12 @@ import com.tutorialsninja.qa.PageObjects.RegisterSuccessObj;
 /**
  * 
  */
-public class RegisterPageTest extends BaseClass{
+public class RegisterPage extends BaseClass{
 	RegisterSuccessObj registerSuccess;
 	RegisterPageObj registerPage;
 	public WebDriver driver;
 	
-	public RegisterPageTest() {
+	public RegisterPage() {
 		super();
 	}
 	

@@ -18,12 +18,12 @@ import com.tutorialsninja.qa.PageObjects.SearchPageObj;
 /**
  * 
  */
-public class SearchPageTest extends BaseClass{
+public class SearchPage extends BaseClass{
 
 	HomePageObj homeSearch;
 	SearchPageObj searchProduct;
 	
-	public SearchPageTest() {
+	public SearchPage() {
 		super();
 	}
 	public WebDriver driver;
